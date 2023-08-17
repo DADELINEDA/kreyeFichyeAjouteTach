@@ -1,0 +1,3 @@
+commander un pixa
+diminuer la taille d'un crayon
+placer un commande de pixa
